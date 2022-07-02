@@ -5,3 +5,6 @@ def cart():
 
 def login():
     return
+
+def cartchange1():
+    return
